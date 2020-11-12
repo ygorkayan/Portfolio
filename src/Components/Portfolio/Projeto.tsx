@@ -9,7 +9,7 @@ interface projeto {
 
 const Projeto = (props: projeto) => {
   return (
-    <AreaProjeto href={props.link}>
+    <AreaProjeto href={props.link} target="_blank">
       <div>
         <Imagem src={props.img} />
       </div>
