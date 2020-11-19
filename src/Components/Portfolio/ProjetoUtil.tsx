@@ -2,7 +2,7 @@ import styled from "styled-components";
 
 export const AreaProjeto = styled.a`
   width: 300px;
-  height: 350px;
+  height: 400px;
   border-radius: 0.5rem;
   border: 2px solid #e6e7e9;
   margin: 1rem;
@@ -17,10 +17,10 @@ export const Imagem = styled.img`
 `;
 
 export const AreaTexto = styled.div`
-  padding: 0.1rem;
+  padding: 0.5rem;
 `;
 
 export const Texto = styled.p`
-  font-size: 0.8rem;
+  font-size: 1rem;
   text-align: center;
 `;
