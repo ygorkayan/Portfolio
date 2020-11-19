@@ -24,7 +24,7 @@ const Sobre = () => {
         <AreaTexto>
           <EuTexto>
             Ola, meu nome é ygor e sou programador, desenvolvo minhas aplicações
-            usando, React, React Native, e Node, porém trânsito também pelo
+            usando, React, React Native e Node, porém trânsito também pelo
             mundo php
           </EuTexto>
         </AreaTexto>

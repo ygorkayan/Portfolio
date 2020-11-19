@@ -2,7 +2,7 @@ import styled from "styled-components";
 
 export const AreaProjeto = styled.a`
   width: 300px;
-  height: 400px;
+  height: 350px;
   border-radius: 0.5rem;
   border: 2px solid #e6e7e9;
   margin: 1rem;
